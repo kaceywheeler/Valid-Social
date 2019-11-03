@@ -1,3 +1,4 @@
+package ifs;
 public class Social {
 	//New method to check if social is valid
 	public String Social_Check(String social) {
